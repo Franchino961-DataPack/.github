@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8B5CF6,6366F1&height=180&section=header&text=Franchino961 - DataPack&fontSize=50&fontColor=FFFFFF&fontAlignY=40" alt="Header Banner" />
+  <img src="./header.svg" alt="Header Banner" />
 </p>
 
 <p align="center">
